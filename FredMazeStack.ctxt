@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FredMazeStack
+comment1.params=n
+comment1.target=FredMazeStack(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=
+comment4.target=java.lang.String\ pop()
+comment5.params=x
+comment5.target=void\ push(java.lang.String)
+comment6.params=x
+comment6.target=boolean\ search(java.lang.String)
+numComments=7

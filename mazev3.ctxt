@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=mazev3
+comment1.params=mae\ e1\ e2
+comment1.target=mazev3(java.lang.String[][],\ int,\ int)
+comment2.params=maze\ sr\ sc\ pr
+comment2.target=boolean\ right(java.lang.String[][],\ int,\ int,\ int)
+comment3.params=maze\ sr\ sc\ pc
+comment3.target=boolean\ down(java.lang.String[][],\ int,\ int,\ int)
+comment4.params=maze\ sr\ sc\ pr
+comment4.target=boolean\ left(java.lang.String[][],\ int,\ int,\ int)
+comment5.params=maze\ sr\ sc\ pc
+comment5.target=boolean\ up(java.lang.String[][],\ int,\ int,\ int)
+comment6.params=maze\ sr\ sc\ pr\ pc\ er\ ec
+comment6.target=java.lang.String\ move(java.lang.String[][],\ int,\ int,\ int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=void\ main()
+numComments=8
